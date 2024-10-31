@@ -1,4 +1,7 @@
+$primary-color:lightblue;
+$primary-font:sans-serif,'cursive';
+
 body{
-    padding: 1em;
-    background: lightblue;
+    background: $primary-color;
+    font-family: $primary-font;
 }
